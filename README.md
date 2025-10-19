@@ -1,3 +1,3 @@
 # first
 //first time 
-Authour : Neeraj thapa
+Author : Neeraj thapa
